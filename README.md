@@ -7,6 +7,14 @@ Essas instruções permitirão que você consiga navegar em meu site:
 
 Clique nesse link **(https://661b901b0093cd39d9ed2839--frabjous-naiad-65dbad.netlify.app/)** para poder acessar minha página web.
 
+### 📋 Conhecendo de pertinho...
+
+Se liga nos prints de cada pedacinho da página:
+
+![Home](https://github.com/duartegab/Projeto-Mini-PI/blob/main/home.png)
+
+
+
 ### 🔧 Material de Apoio
 
 Quer saber como consegui fazer esse projeto do 0? Acesse o material abaixo e acompanhe o passo-a-passo:
