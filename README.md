@@ -7,4 +7,17 @@ Essas instruções permitirão que você consiga navegar em meu site:
 
 Clique nesse link **(https://661b901b0093cd39d9ed2839--frabjous-naiad-65dbad.netlify.app/)** para poder acessar minha página web.
 
-Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
+### 🔧 Material de Apoio
+
+Quer saber como consegui fazer esse projeto do 0? Acesse o material abaixo e acompanhe o passo-a-passo:
+
+**(https://github.com/gustavoguanabara/html-css)**
+
+Neste material, você irá adquirir conhecimentos prévios de html e css, conseguindo criar o seu próprio site! ⌨️
+
+
+## ⚙️ Site de Referência
+
+Segue o link do site abaixo, que foi usado como referência para eu conseguir criar essa página web:
+
+**(http://www.notte.com.br/)**
