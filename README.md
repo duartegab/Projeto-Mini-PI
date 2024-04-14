@@ -60,7 +60,7 @@ Quer saber como consegui fazer esse projeto do 0? Acesse o material abaixo e aco
 
 **(https://github.com/gustavoguanabara/html-css)**
 
-Neste material, você irá adquirir conhecimentos prévios de html e css, conseguindo criar o seu próprio site! ⌨️
+Neste material, você irá adquirir conhecimentos prévios de html e css. Ficando atento aos direitos de uso, você está pronto(a) para criar o seu próprio site! ⌨️
 
 
 ## ⚙️ Site de Referência
@@ -72,7 +72,7 @@ Segue o link do site abaixo, que foi usado como referência para eu conseguir cr
 
 ## ✒️ Autores
 
-* **Gabriel Duarte** - *Trabalho Inicial* - [Gabriel Duarte](https://github.com/duartegab)
+* **Gabriel Duarte** - *Trabalho Final* - [Gabriel Duarte](https://github.com/duartegab)
 * **Gabriel Duarte** - *Documentação* - [Gabriel Duarte](https://github.com/duartegab)
 
 
