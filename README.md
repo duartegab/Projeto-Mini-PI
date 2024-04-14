@@ -21,7 +21,7 @@ Ainda nessa guia, começamos com o conteúdo do texto, além de uma imagem conte
 
 
 
-![Home](https://github.com/duartegab/Projeto-Mini-PI/blob/main/Sinificado2.png)
+![Home](https://github.com/duartegab/Projeto-Mini-PI/blob/main/Significado2.png)
 Ainda na guia Home, outras definições do assunto começam a surgir, além de outra imagem correlata ao conteúdo (também tendo uma definição em texto alternativo, ao passar o mouse).
 
 
@@ -45,6 +45,14 @@ Já na guia Curiosidades, surgem outras definições do assunto, com 6 tópicos 
 Enfim, se encerra a Página na guia Contato, você verá meu nome e o nome desse projeto (ao clicar sobre cada um, você será encaminhado ao meu perfil no GitHub e nesse Repositório, respectivamente!).
 
 
+## 🖇️ Recursos Utilizados
+
+Clicar nos links abaixo te darão acesso ao meus códigos-fonte e imagens utilizadas:
+
+* *Codificação1* - Código-fonte HTML- (https://github.com/duartegab/Projeto-Mini-PI/blob/main/index.html)
+* *Codificação2* - Código-fonte CSS- (https://github.com/duartegab/Projeto-Mini-PI/blob/main/style.css)
+* *Galeria* - Imagens - (https://github.com/duartegab/Projeto-Mini-PI/tree/main/Img)
+
 
 ### 🔧 Material de Apoio
 
@@ -60,3 +68,18 @@ Neste material, você irá adquirir conhecimentos prévios de html e css, conseg
 Segue o link do site abaixo, que foi usado como referência para eu conseguir criar essa página web:
 
 **(http://www.notte.com.br/)**
+
+
+## ✒️ Autores
+
+* **Gabriel Duarte** - *Trabalho Inicial* - [Gabriel Duarte](https://github.com/duartegab)
+* **Gabriel Duarte** - *Documentação* - [Gabriel Duarte](https://github.com/duartegab)
+
+
+## 🎁 Gratidão
+
+* Desde já conto o apoio de vocês e peço que me sigam, para acompanharem junto comigo meu primeiro Projeto Integrador, que terá relação com minhas disciplinas-chave do meu 1º Semestre (Engenharia de Software 1, Desenvolvimento Web 1 e Design Digital)! 📢;
+* Agradeço ao meu professor Márcio Funes, que me instruiu com o projeto. Agradeço também ao professor Gustavo Guanabara, que forneceu todo o material necessário para eu conseguir levantar esse projeto do zero. E a minha família, amigos, que me motivam a cada dia mais para entrar no Ramo de Tecnologia da Informação, com o objetivo de construir uma carreira instável, sendo um profissional íntegro e inovador. 🫂;
+
+---
+⌨️ com ❤️ por [Gabriel Duarte](https://github.com/duartegab) 😊
